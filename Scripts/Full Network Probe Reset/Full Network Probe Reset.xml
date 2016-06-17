@@ -1,0 +1,47 @@
+﻿<LabTech_Expansion
+	Version="105.269"
+	Name="LabTech Script Expansion"
+	Type="PackedScript">
+	<PackedScript>
+		<NewDataSet>
+			<Table>
+				<ScriptId>6030</ScriptId>
+				<FolderId>199</FolderId>
+				<ScriptName>Full Network Probe Reset</ScriptName>
+				<ScriptNotes>This script is designed to purge all network devices at a location and perform a full reset of the targeted network probe. Generally used to resolve issues with Network Probe or device inventory. </ScriptNotes>
+				<Permission>0,</Permission>
+				<EditPermission>0,</EditPermission>
+				<ComputerScript>1</ComputerScript>
+				<LocationScript>0</LocationScript>
+				<MaintenanceScript>0</MaintenanceScript>
+				<FunctionScript>0</FunctionScript>
+				<LicenseData>H4sIAAAAAAAEAFWPQQrCMBRE94J3yAEa0pjYpuWTjYobBbHiPm2+mIVpSVOwt5cWhboaZoY3MHByDfoe9yYaDbexQ82BzQrXwe/awUcMOgW2cHB4dy5MDOrbcwi9NWNCKuwivmoMJJUJ2aRckqzkWSk4uZyBLRiomuC6eMfQu9ZP4//Btz8Ozuoif6haWUuFzDnlHCU1QmxpagqDVjUSVf7jZwDY8tJ69QHAx/4C4gAAAA==</LicenseData>
+				<ScriptData>H4sIAAAAAAAEAOVbUVPiSBB+v6r7D/2yp1YBkgQEd5WSgqCpQ7AIrnV1Xu2OZMCsIaEyE3etuh+/k0migTWR9WYk7PkQMjMkTL7p7q+/nnhkTnx7QbuIotbvvwEcRW3CG6ypf6M+Ckd7NnYsAvvJwAXy0RxT7Kf6Th3vBjmpjuhmH9mXbM9tKUf7yx1L3zoNbKt12Jg2b5qWVdZqDaWsKLhWRppWL1fRIcJWc1LDzUZyF34Bn/N+etLx7UyKF49P0Z7QeALxWdzfC1zeNqxwLNVKP6Sy8tDqSltbaddW2vUUHp5PW1U23/Az7ut4LrXdAIf9j+fx2JD07bnNL0lO4xHDtbBLEX8YNppupiF5QiEHFjUPFu0wG5jW+65N0I2DL3zvBh/tx73/W7DUHKgUpfo8QOFV8VkuUK2TjjdfBMzjjO5JfEltGbtW8hP1JQyVDAyV12KoyDQ4pZGDoqn39c4YdnsOmhH4A80XH0BRm3AcHvegbcJng3Br/Ay90fAcEswIXJ3pIx2eMGTXpBGFvnFujEH58HOrFGIRny2v1nv9m017yHaw9YyT1HKNXhVt9FIXrJazXmd/6n996g877f6n83bnzBjo1+awN75qj/TrProZ48ntNcfFxP69PcHXUoKIJtoBVKkOkENFogB9jBQvBZ2UGY/wrIsdRvlr2XBNtA3LxPwgL+Z0WcwZ61E4GWD61fPvujjENokpu31vwifFIkpyGkaU4Wg53FT3pFh3XTTSWhGQ7nmBa2XgHAXvFaiXBiVBfbBNUCtqbuqmu88Rk1i8GluFV36q+xZ4Nbcp230BrxEmFPk0JqX2jE1CCmaH24RZnkKoNzO4uj+OyfxfZU3WftcZnl9cjvWR0X33c1IhS28VUiuoeZnSQYbe+o/mpmSpqUIm5/WDNytrKFmqpZimkxe7xrcY4rgFKAxcQCIHBBJMWD4yDRznAfwowGGrIsfQslRLIQ3tZfJ8Kz5QhCuPDZKo7spNOBTh4qF49bV1SfP19bUsWVDIyFfUApv2+gLbj16SX5tQhOuSjVEVj6NgE3A9ihkllads4WbYAkQAJeUK4NBUmKb2J7Y7YwMjPGX0dRsNsDVzp/Ys8PnkKxBNE77ajgMzD6gHxMF4AVPPhzrMGToUE0mkJ1wBbaxsZAxMfTQG43QwZG5hDMbDCG3mEnPkWgR2edOwShB3lYBfyjfVSmCyGQfscxhQ5kIl6CFCx8i5K0EXUXy5sNjR2oOP7f6lbsLuTtrXdkqwo4SH1c5qeIh/DgxCApa9VCrJyGB4tbsnp3KiCJdpMhc2V1hoVTnKQhW+1yW1TP1iwic7d1GFK7ENJnrmBLlxtJYDlvA9JamJXh5WhvsFsxHOY4MLmMTRjNEUozQGI1Am39wISzkspW6VNFuLpTLpqfssPT3xTpphStAoLeV8crhEFa7wpObbL5ThWRZr8qoCkQOWcIW3WVaRHiiF7/FsjlWOw78knQ8NDUzMv0ngOOtPDqivEFyhlxcSVfkuu1XbQLnhLYYpqZdimiZnoD7GkhhauNzYGEUILtNrwlXGJsvKmS+nCH6BaKukRq5HRnCF2bLF8WJuObMJ9R/gDj/ACWvdI+ekAhcORgTDPfbt6QPzWkRhgf25TQjnD+RjCN3Z84HlhgGKHHzu3WN+H56Q32I3rEj5QZiS2wQIfxo5C7RVr8ypYdn9rfx9q7TK2v4u/VUMbau2kdZ1+Qi15bowhCVjXtzlXso3PCvwd6qQX14Sdf/IwVu4TvllPFi4IimEB8suD2rCN3kK4MCMTjHHjefRRXRj4drll3HjTUiSpB3/f9d3PmYGs+41AAA=</ScriptData>
+				<ScriptVersion>1</ScriptVersion>
+				<ScriptGuid>97f8b8dd-3471-11e4-a335-0a9aed8c4e87</ScriptGuid>
+				<ScriptFlags>0</ScriptFlags>
+				<Parameters></Parameters>
+			</Table>
+		</NewDataSet>
+		<ScriptFolder>
+			<NewDataSet>
+				<Table>
+					<FolderID>199</FolderID>
+					<ParentID>197</ParentID>
+					<Name>NP Functions</Name>
+					<GUID>407d82a7-6979-439c-a911-34d33372a65a</GUID>
+				</Table>
+			</NewDataSet>
+		</ScriptFolder>
+		<ScriptFolder>
+			<NewDataSet>
+				<Table>
+					<FolderID>197</FolderID>
+					<ParentID>0</ParentID>
+					<Name>Device Monitoring</Name>
+					<GUID>feedddf0-20be-41b3-898c-767b2f9e0878</GUID>
+				</Table>
+			</NewDataSet>
+		</ScriptFolder>
+	</PackedScript>
+</LabTech_Expansion>
