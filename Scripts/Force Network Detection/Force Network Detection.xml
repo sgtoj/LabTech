@@ -1,0 +1,47 @@
+﻿<LabTech_Expansion
+	Version="105.226"
+	Name="LabTech Script Expansion"
+	Type="PackedScript">
+	<PackedScript>
+		<NewDataSet>
+			<Table>
+				<ScriptId>6143</ScriptId>
+				<FolderId>199</FolderId>
+				<ScriptName>Force Network Detection</ScriptName>
+				<ScriptNotes>Forces the Network Probe to update its Probe Configuration then re-detect devices.</ScriptNotes>
+				<Permission>0,</Permission>
+				<EditPermission>0,</EditPermission>
+				<ComputerScript>1</ComputerScript>
+				<LocationScript>0</LocationScript>
+				<MaintenanceScript>0</MaintenanceScript>
+				<FunctionScript>0</FunctionScript>
+				<LicenseData>H4sIAAAAAAAEAFWPTQrCMBSE94J3yAEa8lNSanlkY8WNgmhxn6RPyMK0pA3Y22uLQl0NM8M3MHDyDsOAtRmNhmbqUQtgi8I1hX2XwohRc2ArB4dX7+PMoG4SDq2ZMlKjw6fFSKTMiORCEVFxVX30cga2IuDmou/HO8bBd2Ge/g++/TH5VufSObQlp6Y0DyoEKroT1lDOFVdFLm2pih+/AMDWh7abN0Xgl3TgAAAA</LicenseData>
+				<ScriptData>H4sIAAAAAAAEAOVXUW+bMBB+n9T/4JcqiUQSDCWlW4QUpSRCiqAKpHs22GmtJoCMUffza8BpKVNZK5VuaA+Av++MOX/nuxNzP2I05deII+vsGwDzCmclEND+xRkqrCtKDjgD05PhBjF0JJywGrc+JCE61IhqsVsxiSaxBefT18SrWeucYkvXooiEpjpGJtqPISTG+AqGaKyqhmrMdC00jdlplfKF0udp3Wm5nM9J+ryLRcSlA3Ik+VUel9jBha2G6puEjU1rDaw38EUDGzU9EsYtVfhbPCW3TGJO45wU/PNY2rxsQ4+0fOU0lBYnxiTmqNyMsNZhXZIXFVpk0dpk0a/eFsb67mRZTm5YEpIt2TOS3c+n0vTfKja7bBHMcX17GwBn7XpbGzhu4IG0UC9KjkcUi/walmI6WFlWjPKSZ4ofLIKdr3g5T3OurFDGA3R4UER2kl2KxR2PwO1is7N9MByciyXFNMIoPh8oAyiuBqWKS34FlHHEk8mk4oe+vbGXAXC9n8PRaNRJUOFnBxV2GFStLQsq8QACMgeA8H9P73JWOgJkbAFPAL8nVbwnnUiq9UrSloprQVPtRCG9Twr9ofbaMf6a8nvRp/L77oblEv6YsAc/QnEnqhl9Uu0fbVpQtqm3WhX8rVX96CSWsz6Vjff1Knn8QXH+v7BFXfZJyY8U4K7LifkXyskJy7/DJzwOpw0sDgAA</ScriptData>
+				<ScriptVersion>1</ScriptVersion>
+				<ScriptGuid>32cceb80-a8af-11e5-91ba-00505632b856</ScriptGuid>
+				<ScriptFlags>0</ScriptFlags>
+				<Parameters></Parameters>
+			</Table>
+		</NewDataSet>
+		<ScriptFolder>
+			<NewDataSet>
+				<Table>
+					<FolderID>199</FolderID>
+					<ParentID>197</ParentID>
+					<Name>NP Functions</Name>
+					<GUID>407d82a7-6979-439c-a911-34d33372a65a</GUID>
+				</Table>
+			</NewDataSet>
+		</ScriptFolder>
+		<ScriptFolder>
+			<NewDataSet>
+				<Table>
+					<FolderID>197</FolderID>
+					<ParentID>0</ParentID>
+					<Name>Device Monitoring</Name>
+					<GUID>feedddf0-20be-41b3-898c-767b2f9e0878</GUID>
+				</Table>
+			</NewDataSet>
+		</ScriptFolder>
+	</PackedScript>
+</LabTech_Expansion>
